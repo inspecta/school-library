@@ -23,11 +23,8 @@ After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>School Library App Readme</b></h3>
 
 </div>
 
@@ -57,29 +54,27 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 SCHOOL LIBRARY APP <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+**The school library application** is an application that holds school library information. The application enables one to a new student, teacher or book and also store information of whoever borrows a book and when.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> This application is developed using these technologies
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://ruby-lang.org/">Ruby</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li>N/A</li>
   </ul>
 </details>
 
@@ -94,23 +89,21 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Add details to the application (Book, student and teacher)**
+- **Student or teacher and borrow a book**
+- **Store information about the book and the person who has borrowed it**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+<!-- LIVE DEMO 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+-->
 
 <!-- GETTING STARTED -->
 
@@ -122,28 +115,20 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+In order to run this project you need a computer with the following technlogies installed:
+- A text editor
+- Ruby
+- PostgreSQL
+- Git
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
   cd my-folder
   git clone git@github.com:myaccount/my-project.git
 ```
---->
 
 ### Install
 
@@ -204,15 +189,9 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@inspecta](https://github.com/inspecta)
+- Twitter: [@djmulinde](https://twitter.com/djmulinde)
+- LinkedIn: [derrick-mulinde](https://linkedin.com/in/derrick-mulinde)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -220,11 +199,8 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **A User Iterface design**
+- [ ] **Persistance**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -242,9 +218,8 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project, please star it. Thanks.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -252,9 +227,8 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Microverse for providing me with the material that I used to develop this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -262,15 +236,14 @@ I would like to thank...
 
 ## ❓ FAQ <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+- **Can I use this code?**
 
-- **[Question_1]**
+  - Yeah sure! As long as you me credit.
 
-  - [Answer_1]
+- **Can I contribute to this project?**
 
-- **[Question_2]**
-
-  - [Answer_2]
+  - Yes please. Contact me and I'll add you as a contributor
+  - Alternatively, feel free to leave an issue. It'll be very much appreciated
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -279,7 +252,5 @@ I would like to thank...
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
