@@ -10,7 +10,5 @@ class Book
 
   def add_rental(rental)
     @rentals << rental
-    rental.student = self
   end
-
 end
