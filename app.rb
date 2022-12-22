@@ -27,7 +27,7 @@ class App
     when '3' then create_a_person
     when '4' then create_a_book
     when '5' then create_a_rental
-    when '6' then list_person_rentals
+    when '6' then list_rentals
     when '7' then stop_application
     else
       puts 'Invalid option. Option must be between 1 and 7'
@@ -116,7 +116,7 @@ class App
     rent_book
   end
 
-  def list_person_rentals
+  def list_rentals
     list_person_rentals
   end
 
