@@ -91,7 +91,8 @@ class App
     print 'Author: '
     author = gets.chomp
 
-    @books.push(Book.new(tit, author))
+    #Add title and author of the book
+    @books.push(Book.new(author))
     puts 'Book successfully created!'
     library_menu
   end
