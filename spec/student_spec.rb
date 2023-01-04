@@ -17,7 +17,7 @@ describe Student do
     expect(classroom).to eq 'science'
   end
 
-  it'should have the age of 24' do
+  it 'should have the age of 24' do
     age = @student.age
     expect(age).to be 24
   end

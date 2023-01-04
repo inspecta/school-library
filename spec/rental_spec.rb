@@ -23,6 +23,4 @@ describe Rental do
       expect(title).to eql 'Learn Ruby'
     end
   end
-
-
 end
